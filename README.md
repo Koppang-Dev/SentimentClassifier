@@ -10,6 +10,7 @@ Creating a Naive Bayes Classifier to compute sentiment analysis on test data. De
 
 # Examples
 
+* Pre-processed Text: 
 ![Pre-processed Text](images/pre-processed.png)
 
 ![Post-processed Text](images/post-processed.png)
