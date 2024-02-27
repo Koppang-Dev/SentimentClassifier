@@ -1,5 +1,5 @@
 # SentimentClassifier
-Creating a Naive Bayes Classifier to compute sentiment analysis on test data. Developed a corpus tokens from a real and fake news dataset. Each row was pre-processed using Tokenization, Lemmatization and Stemming. After pre-processing was complete, the data frame was split into 70% training and 30% test. Manual sentiment analysis was then performed on the training data, checking the polarity of each row, then assigning it a polarity score (1: Positive, 0: Neutral, -1: Negative). Multinomial Naive Bayes Classifier was then developed and used to perform sentiment analysis on the test data. 
+Implemented a Naive Bayes Classifier for sentiment analysis on test data by utilizing a corpus tokenized from real and fake news datasets. Each row underwent preprocessing steps including tokenization, lemmatization, and stemming. Upon completion of preprocessing, the dataset was divided into 70% for training and 30% for testing purposes. Manual sentiment analysis was conducted on the training data, determining the polarity of each row and assigning it a polarity score (1 for Positive, 0 for Neutral, -1 for Negative). Subsequently, a Multinomial Naive Bayes Classifier was developed and applied to perform sentiment analysis on the test data.
 
 
 # Built With
