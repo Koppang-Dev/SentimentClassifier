@@ -11,18 +11,18 @@ Creating a Naive Bayes Classifier to compute sentiment analysis on test data. De
 # Examples
 
 * Pre-Processed Text:
-* ![pre-processed](relative/path/to/your/image.jpg)
+* ![pre-processed](images/pre-processed.png)
 
 * Post-Processed Text;
-* ![post-processed](relative/path/to/your/image.jpg)
+* ![post-processed](images/post-processed.png)
 
 
 * Manual Sentiment Analysis:
-* ![manual_sentimnent](relative/path/to/your/image.jpg)
+* ![manual_sentimnent](images/manual_sentiment.png)
 
 
 * Naive Bayes Classifier Sentiment Analysis:
-* ![naive_bayes](relative/path/to/your/image.jpg)
+* ![naive_bayes](images/naive_bayes.png)
 
 
 
